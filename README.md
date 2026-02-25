@@ -7,6 +7,7 @@ Frontend Developer
 I have been learning to code for the last year while pursuing a career change. I have developed a passion for frontend development while learning the various skills and tech stacks.
 
 * 🌍  I'm based in the United States
+* Check out my portfolio at https://cmattox1983.github.io/portfolio/
 * ✉️  You can contact me at [chrismattox121183@outlook.com](mailto:chrismattox121183@outlook.com)
 
 <p align="left">
